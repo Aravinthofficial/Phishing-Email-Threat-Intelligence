@@ -52,5 +52,3 @@ See `reports/incident-report.pdf` for detailed findings, evidence, limitations, 
 ## Disclaimer
 This project uses a public historical email sample for educational purposes. URLs are defanged for safety. No recipient compromise is claimed.
 
-## Author
-Aravinth
